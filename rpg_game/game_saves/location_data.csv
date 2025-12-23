@@ -1,0 +1,256 @@
+x,y,name,visited_count,has_coins,coin_amount,has_monster,monster_type,is_safe,description,items,discovered
+0,0,Village Center,1,False,0,False,,True,A peaceful village where your journey begins.,,True
+0,1,Village Outskirts,1,False,0,False,,False,The quiet outskirts of the village.,,True
+0,-1,Village Outskirts,0,True,10,False,,False,The quiet outskirts of the village.,,True
+1,0,Village Outskirts,0,False,12,False,,False,The quiet outskirts of the village.,,True
+-1,0,Village Outskirts,1,False,9,False,,False,The quiet outskirts of the village.,,True
+-2,0,Mystic Cave,1,False,0,True,,False,A mysterious location...,,False
+-2,1,Forgotten Cave,1,False,0,True,,False,A mysterious location...,,False
+-1,1,Ancient Forest,1,False,0,False,,False,A mysterious location...,,False
+0,2,Mystic Cave,1,False,0,False,,False,A mysterious location...,,False
+-1,2,Forgotten Cave,1,False,0,False,,False,A mysterious location...,,False
+-2,2,Ancient Temple,1,False,0,False,,False,A mysterious location...,,False
+-3,2,Forgotten Mountain,1,False,0,True,,False,A mysterious location...,,False
+-3,1,Mystic Ruins,1,False,0,False,,False,A mysterious location...,,False
+-3,0,Dark Cave,1,False,0,False,,False,A mysterious location...,,False
+-3,-1,Sunny Meadow,1,False,0,False,,False,A mysterious location...,,False
+-3,-2,Frozen Forest,3,False,0,False,,False,A mysterious location...,,False
+-4,-2,Burning Ruins,3,False,0,False,,False,A mysterious location...,,False
+-5,-2,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-6,-2,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,-2,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,-2,Sunny Mountain,3,False,0,True,,False,A mysterious location...,,False
+-1,-2,Dark Temple,2,False,0,True,,False,A mysterious location...,,False
+0,-2,Mystic Cave,2,False,0,True,,False,A mysterious location...,,False
+1,-2,Forgotten Cave,3,False,0,True,,False,A mysterious location...,,False
+2,-2,Ancient Temple,3,False,0,False,,False,A mysterious location...,,False
+3,-2,Forgotten Mountain,3,False,0,False,,False,A mysterious location...,,False
+4,-2,Mystic Forest,3,False,0,False,,False,A mysterious location...,,False
+5,-2,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,-3,Frozen Forest,3,False,0,False,,False,A mysterious location...,,False
+-2,-4,Burning Ruins,3,False,0,False,,False,A mysterious location...,,False
+-3,-4,Ancient Valley,3,False,0,False,,False,A mysterious location...,,False
+-4,-4,Forgotten Temple,3,False,0,True,,False,A mysterious location...,,False
+-5,-4,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-6,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,-5,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-7,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-6,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-5,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-4,-6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-3,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-1,-6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+0,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+1,-6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+2,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+3,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+4,-6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+5,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+6,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+7,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+8,-6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+9,-6,Dangerous Wilderness,4,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,-6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+14,-6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,-5,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+14,-4,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,-4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-4,Dangerous Wilderness,4,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-5,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+6,-5,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+6,-4,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+5,-4,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+4,-4,Ancient Cave,3,False,0,False,,False,A mysterious location...,,False
+3,-4,Forgotten Meadow,3,False,0,True,,False,A mysterious location...,,False
+2,-4,Mystic Forest,3,False,0,False,,False,A mysterious location...,,False
+1,-4,Dark Temple,3,False,0,False,,False,A mysterious location...,,False
+1,-3,Mystic Ruins,3,False,0,False,,False,A mysterious location...,,False
+4,-1,Dark Temple,3,False,0,False,,False,A mysterious location...,,False
+4,0,Sunny Cave,3,False,0,False,,False,A mysterious location...,,False
+4,1,Frozen Mountain,3,False,0,False,,False,A mysterious location...,,False
+4,2,Burning Ruins,2,False,0,False,,False,A mysterious location...,,False
+4,3,Ancient Valley,2,False,0,False,,False,A mysterious location...,,False
+4,4,Forgotten Temple,2,False,0,False,,False,A mysterious location...,,False
+3,4,Ancient Valley,2,False,0,False,,False,A mysterious location...,,False
+2,4,Burning Ruins,3,False,0,True,,False,A mysterious location...,,False
+1,4,Frozen Mountain,3,False,0,False,,False,A mysterious location...,,False
+0,4,Sunny Cave,3,False,0,True,,False,A mysterious location...,,False
+-1,4,Dark Temple,3,False,0,True,,False,A mysterious location...,,False
+-2,4,Mystic Forest,3,False,0,False,,False,A mysterious location...,,False
+-3,4,Forgotten Meadow,3,False,0,False,,False,A mysterious location...,,False
+-4,4,Ancient Cave,3,False,0,False,,False,A mysterious location...,,False
+-5,4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-6,4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,4,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,5,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-8,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-9,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-10,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,7,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-10,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-11,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-12,8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-13,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-9,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-8,8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-7,8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-6,8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-5,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-4,8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-3,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-1,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+0,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+1,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+2,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+3,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+4,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+5,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+6,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+7,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+8,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+9,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,7,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,6,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+10,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+11,8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,8,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+10,6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+12,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+8,6,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+7,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+6,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+5,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+4,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+3,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+2,6,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+6,5,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,5,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,4,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,3,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,3,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+11,3,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,3,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,3,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+14,3,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+15,3,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+15,2,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,2,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+8,1,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,0,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,-1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,-1,Dangerous Wilderness,3,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+12,-1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,-1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,-1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-1,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-2,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-3,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,-7,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-3,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-4,-8,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-5,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-6,-8,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-7,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-8,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-9,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-7,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-11,-6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-12,-6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-13,-6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-14,-6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,-7,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-15,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,-5,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,-4,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-14,-4,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-13,-4,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-12,-4,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-11,-4,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-10,-4,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-5,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-9,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-8,-6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+1,-7,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+1,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+2,-8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+3,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+4,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+5,-8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+6,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+7,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+8,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+10,-8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+11,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+9,-7,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+6,-2,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+12,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,-8,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,-8,Dangerous Wilderness,3,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,-7,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+13,-2,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+12,-2,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+11,-2,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+14,-2,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+15,-2,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+15,-1,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+15,0,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,8,Dangerous Wilderness,2,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+14,8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,7,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-2,6,Dangerous Wilderness,2,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,5,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,4,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,3,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-10,2,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-6,6,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-5,6,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-4,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-3,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+15,1,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-11,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-12,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-13,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-14,-8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-3,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-10,-2,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,-1,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-10,0,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,-1,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-7,0,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,1,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,2,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-7,3,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-11,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-12,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-13,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-14,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-15,7,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+-15,8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+-14,8,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+5,4,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
+6,4,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+1,6,Dangerous Wilderness,1,False,0,True,orc,False,A dangerous area filled with powerful monsters.,,False
+13,6,Dangerous Wilderness,1,False,0,True,dragon,False,A dangerous area filled with powerful monsters.,,False
