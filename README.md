@@ -11,10 +11,6 @@ A graphical RPG adventure game built with Python and Pygame. Navigate through a 
 - **Save/Load System**: Save your progress and continue later
 - **Multiple Game Modes**: Both graphical and text-based interfaces
 
-## Screenshots
-
-![Game Screenshot](docs/screenshot.png)
-
 ## Installation
 
 ### Prerequisites
